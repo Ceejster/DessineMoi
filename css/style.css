@@ -58,6 +58,10 @@ nav {
     color: #ffffff;
 }
 
+.btnSize {
+    opacity: 0.85;
+    min-width: 10rem;
+}
 
 main>.container {
     padding: 60px 15px 0;
@@ -66,22 +70,6 @@ main>.container {
 
 .checklist > li i {
     color: var(--secondary);
-}
-
-.bsicon {
-    color: #602C50;
-}
-
-.jsicon {
-    color: #F0DB4F;
-}
-
-.htmlicon {
-    color: #E34C26;
-}
-
-.cssicon {
-    color: #264de4;
 }
 
 code[class*="language-"],
