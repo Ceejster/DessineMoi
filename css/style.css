@@ -27,7 +27,7 @@ nav {
     position: relative;
 }
 
-.overlay {
+.heroOverlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -72,12 +72,7 @@ main>.container {
     color: var(--secondary);
 }
 
-code[class*="language-"],
-pre[class*="language-"] {
-white-space: pre-wrap;
-word-break: break-all;
-word-wrap: break-word;
-}
+
 
 .sticky-footer {
     position: sticky;
